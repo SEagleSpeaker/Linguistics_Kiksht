@@ -7,10 +7,12 @@ Project goals:
 - Preserve the data using digital archiving methods.
 
 Kiksht Language History:
+
 Kiksht is Indegenous to the Lower Columbia River and was historically spoken in what is now considered to be southern Washington and nnorther Oregon. Kiksht is a dormant language as there are currently no native speakers of the language. Its descendants are currently enrolled in the Yakama Reservation in Washington and the Warm Springs Reservation in Oregon.
 
 Kiksht Linguistic Information:
 Kiksht is a highly polysynthetic language with complex verbal morphology. The language has split-ergative verbal alignment with nominal agreement. 
 
 Digital archiving methods:
-- These methods are relatively new in the field of linguistics and language revitalization. Most of the methods being used here so far are exploratory corpus analysis methods. Literature review is also being conducted to understand how a highly polysynthetic language with such a limited amount of linguistic data can be analyzed using some of these aforementioned methods.
+
+These methods are relatively new in the field of linguistics and language revitalization. Most of the methods being used here so far are exploratory corpus analysis methods. Literature review is also being conducted to understand how a highly polysynthetic language with such a limited amount of linguistic data can be analyzed using some of these aforementioned methods.
